@@ -12,7 +12,7 @@
 
 	opacity: 0;
 	transform: scale(0);
-	transition: 800ms all ease;
+	transition: 400ms all ease;
 }
 
 .grid-img.loaded {
